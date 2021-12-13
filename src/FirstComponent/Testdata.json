@@ -1,0 +1,14 @@
+[
+  {
+    "title": "do the chores",
+    "isDone": true
+  },
+  {
+    "title": "clean room",
+    "isDone": true
+  },
+  {
+    "title": "break some CSS",
+    "isDone": false
+  }
+]

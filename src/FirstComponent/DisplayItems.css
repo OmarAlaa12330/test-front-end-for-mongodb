@@ -1,0 +1,41 @@
+.displayitems-container{
+    background-color: sandybrown;
+    width: 500px;
+}
+.header-display{
+    display:flex;
+    flex-direction: row;
+    width: 400px;
+    height: 100px;
+    background-color: beige;
+    align-items: center;
+}
+
+
+
+.button-display{
+    background-color: rgb(109, 175, 250);
+    border: none;
+    border-radius: 5pt;
+    height: 50px;
+    
+}
+
+.content-display{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(119, 247, 140);
+    border-radius: 5pt;
+    
+}
+.task{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width:100px;
+    background-color: red;
+
+}
+.task:first-of-type{
+    flex:1;
+}

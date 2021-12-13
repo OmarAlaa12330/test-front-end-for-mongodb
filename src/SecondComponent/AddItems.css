@@ -1,0 +1,10 @@
+.additems-container {
+  width: 300px;
+  background-color: skyblue;
+  padding: 20px;
+}
+
+.data-submission {
+  display: flex;
+  flex-direction: column;
+}
